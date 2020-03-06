@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Indraneel Deshpande
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description:
 github_username: idinnu
 
 # Email and twitter are optional:
-email: indraneeldeshpande@gmail.com 
+email:
 twitter_username: indraneeldesh
 
 # Set this to true to get LaTeX math equation support
