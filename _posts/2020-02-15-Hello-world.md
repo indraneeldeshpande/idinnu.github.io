@@ -1,4 +1,4 @@
-## Start of my blog
+## Hello World!
 
 Woah! This feels nice. I will be mostly be posting on Finance, Probability and Statistics,Football and maybe Music. Target of this year is to publish 12 blog posts until the end of the year. So there's a lot of work to do and hopefully you will enjoy reading them. 
 
